@@ -397,7 +397,7 @@ public:
 
 
 int main() {
-	SzablonStosu<string, 5> K1;
+	SzablonStosu<string, 7> K1;
 	SzablonStosu<przyspieszenie, 10> K2;
 	SzablonStosu<temperatura_wody, 10> K3;
 	SzablonStosu<kostka_do_gry, 10> K4;
